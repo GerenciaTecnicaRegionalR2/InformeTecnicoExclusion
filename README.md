@@ -111,4 +111,5 @@ Este proyecto es propiedad de **Claro** y está destinado para uso interno de la
 ---
 
 *Última actualización: 28 de julio del 2025*
+
 *Desarrollado por: Alejandro Posada García(Practicante 2025-1 Gerencia Técnica Regional R2 - Claro)* 
