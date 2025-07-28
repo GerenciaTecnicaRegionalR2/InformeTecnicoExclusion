@@ -78,8 +78,6 @@ informe-claro-pwa/
 Para más información sobre el uso y mantenimiento del aplicativo, consulta:
 
 - **[GUÍA_USUARIO.md](GUÍA_USUARIO.md)**: Manual completo para usuarios
-- **[GUÍA_MANTENIMIENTO.md](GUÍA_MANTENIMIENTO.md)**: Instrucciones para mantenimiento técnico
-- **[GUÍA_DESPLIEGUE.md](GUÍA_DESPLIEGUE.md)**: Proceso de actualización y despliegue
 
 ---
 
