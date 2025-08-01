@@ -593,14 +593,14 @@ function renderHoja2(fromHome) {
         <option${datosHoja2.afectacionServicios==='NO'?' selected':''}>NO</option>
       </select>
       <div class="error-msg" id="err2-afectacionServicios"></div>
-      <label>¿Cambio?*</label>
+      <label>¿Requiere cambio de hardware?*</label>
       <select name="cambio" required>
         <option value="">¿Cambio?</option>
         <option${datosHoja2.cambio==='SÍ'?' selected':''}>SÍ</option>
         <option${datosHoja2.cambio==='NO'?' selected':''}>NO</option>
       </select>
       <div class="error-msg" id="err2-cambio"></div>
-      <label>¿Instalación?*</label>
+      <label>¿Requiere instalación de hardware?*</label>
       <select name="instalacion" required>
         <option value="">¿Instalación?</option>
         <option${datosHoja2.instalacion==='SÍ'?' selected':''}>SÍ</option>
